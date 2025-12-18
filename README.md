@@ -37,6 +37,14 @@ Ahmed Samy || Mechatronics Engineering Student
 
 https://github.com/user-attachments/assets/febc4453-c617-4dff-aa92-26425d01a67b
 
+
+
+
+Uploading video_2025-12-18_13-43-43.mp4…
+
+
+
+
 ![photo_2025-12-17_14-33-10 (3)](https://github.com/user-attachments/assets/04d65f26-7f45-4e53-bbc9-16faccc43ae2)
 
 
