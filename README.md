@@ -1,4 +1,4 @@
-# Hybrid GSM-Based Home Automation (DTMF Technology)
+# Hybrid GSM-Based Home Automation (DTMF Technology)V1.0
 ** Project Overview
 
 This project was developed as part of the Electronics 1 course within the Mechatronics Engineering program. It introduces a reliable, secure, and internet-independent solution for remote appliance control. By utilizing a real SIM card and DTMF (Dual-Tone Multi-Frequency) decoding, the system allows users to control high-voltage devices (like a lamp) via standard mobile phone calls from anywhere in the world.
